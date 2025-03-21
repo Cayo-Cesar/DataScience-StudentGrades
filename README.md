@@ -1,1 +1,2 @@
 # DataScience-StudentGrades
+Este repositório contém o desenvolvimento de um projeto de Ciência de Dados focado na coleta e análise das notas dos alunos em diversas matérias. O objetivo inicial é construir um dataset com informações sobre as notas dos alunos em diferentes áreas de estudo. Na segunda parte do projeto, será realizada uma análise preditiva para estimar as notas futuras dos alunos com base no seu desempenho em matérias correlacionadas. O repositório inclui scripts para coleta, limpeza e preparação de dados, além de um plano para a modelagem preditiva.
