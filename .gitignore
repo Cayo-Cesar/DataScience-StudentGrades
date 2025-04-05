@@ -23,7 +23,8 @@ __pycache__/
 *.db
 *.sqlite
 *.pdf
-NotasPDF/
+/NotasPDF
+
 
 # Diretórios de build
 build/
