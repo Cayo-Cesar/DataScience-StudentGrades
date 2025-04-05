@@ -1,0 +1,50 @@
+# Ambiente virtual
+venv/
+env/
+.env/
+.venv/
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.jupyter/
+
+# Dados (dependendo do seu caso)
+*.csv
+*.xlsx
+*.db
+*.sqlite
+*.pdf
+NotasPDF/
+
+# Diretórios de build
+build/
+dist/
+.eggs/
+
+# Diretórios específicos do IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos de configuração
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+
+# Logs
+logs/
+*.log
