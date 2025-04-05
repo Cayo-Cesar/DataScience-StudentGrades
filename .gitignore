@@ -22,7 +22,6 @@ __pycache__/
 *.xlsx
 *.db
 *.sqlite
-*.pdf
 /NotasPDF
 
 
