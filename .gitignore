@@ -22,7 +22,6 @@ __pycache__/
 *.xlsx
 *.db
 *.sqlite
-/NotasPDF
 
 
 # Diretórios de build
