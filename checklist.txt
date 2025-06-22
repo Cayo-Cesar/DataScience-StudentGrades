@@ -1,8 +1,0 @@
-Arquivo de Base de Dados OK - Cayo
-Dicionário de Dados
-Análise da Qualidade de Dados OK - Cayo
-Análise Exploratoria de Dados
-Modelagem de Dados
-
-Slides
-Relatorio
